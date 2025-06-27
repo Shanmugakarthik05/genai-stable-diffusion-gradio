@@ -20,7 +20,7 @@ To develop an interactive application that allows users to generate custom image
 - Add labels, descriptions, and examples for a user-friendly experience.
 
 ### PROGRAM:
-```
+```py
 import os
 import io
 import IPython.display
